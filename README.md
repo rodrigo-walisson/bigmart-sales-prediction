@@ -1,4 +1,4 @@
-# bigmart-sales-prediction
+# Bigmart-sales-prediction
 Previsão de vendas com Machine Learning — análise exploratória, limpeza de dados e regressão
 
 # BigMart Sales Prediction
