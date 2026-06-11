@@ -10,7 +10,7 @@ usando Machine Learning.
 
 O BigMart coletou dados de vendas de 2013 em múltiplas lojas. 
 O objetivo é prever o volume de vendas de cada produto em cada 
-loja — permitindo otimizar estoque, reduzir desperdício e evitar 
+loja, permitindo otimizar estoque, reduzir desperdício e evitar 
 perda de venda por falta de produto.
 
 ## Dataset
